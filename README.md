@@ -1,5 +1,7 @@
 # Pneumonia Classification Project
 
+![''](https://github.com/sirsjosh/Pneumonia-classification/blob/main/person5_bacteria_16.jpeg)
+
 ## Overview
 The goal of this project is to leverage deep learning Neural Networks on Chest X-Ray images to determine which samples are from patients with Pneumonia.
 
